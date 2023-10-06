@@ -3,7 +3,7 @@
     
  * <font size="3"> An excel sheet that contains all the data from the survey. 
     
-    [survey_data](tfcb-homework01\data\survey_data.xlsx)
+    [survey_data](./data/survey_data.xls)
 * Images of the 4 species imaged
     |Species<br> <font size="2">  (Raw Image Linked) </font> |Image Preview| 
     |:---------------:|:-----:|
