@@ -3,7 +3,7 @@
     
  * <font size="3"> An excel sheet that contains all the data from the survey. 
     
-    [survey_data](./data/survey_data.xls)
+    [survey_data](./images/casent_0172345_rhytidoponera_metallica.jpg)
 * Images of the 4 species imaged
     |Species<br> <font size="2">  (Raw Image Linked) </font> |Image Preview| 
     |:---------------:|:-----:|
